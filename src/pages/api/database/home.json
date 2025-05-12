@@ -1,0 +1,76 @@
+{
+  "page-title": "Welcome to JSPrep – Your JavaScript Interview Companion",
+  "meta-description": "Master JavaScript and ace your next interview with confidence. Whether you're a beginner or brushing up for a tech interview, JSPrep provides everything you need in one place.",
+  "body": [
+    {
+      "heading": "🚀 Why JSPrep?",
+      "content": [
+        {
+          "type": "bullet-points",
+          "data": [
+            "Handpicked Questions: Tackle 100+ carefully curated JavaScript questions from real-world interviews.",
+            "Interactive Code Editor: Practice coding right in the browser with live output.",
+            "Topic-Wise Preparation: Deep dive into topics like closures, async/await, prototypes, DOM, ES6+, and more.",
+            "Real-Time Feedback: Get instant results and hints for each problem.",
+            "Mock Interviews: Simulate interview rounds to test your skills under pressure."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "📚 What You'll Learn",
+      "content": [
+        {
+          "type": "bullet-points",
+          "data": [
+            "JavaScript Fundamentals",
+            "Data Structures & Algorithms in JS",
+            "Browser Internals & the Event Loop",
+            "Coding Challenges with Test Cases",
+            "System Design for Frontend (Advanced)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "👥 Join the Community",
+      "content": [
+        {
+          "type": "paragraph",
+          "data": [
+            "Connect with thousands of developers, share solutions, and grow your confidence."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "🔥 Get Started Now",
+      "content": [
+        {
+          "type": "paragraph",
+          "data": [
+            "Start practicing and turn interviews into offers.",
+            "No signup required – just click and code."
+          ]
+        },
+        {
+          "type": "links",
+          "data": [
+            {
+              "url": "/data-types-in-javascript",
+              "label": "👉 Start Practicing"
+            },
+            {
+              "url": "",
+              "label": "👉 Explore Questions"
+            },
+            {
+              "url": "",
+              "label": "👉 Learn JavaScript Concepts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
